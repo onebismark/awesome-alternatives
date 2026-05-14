@@ -60,7 +60,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### [Zen Browser](https://zen-browser.app/)
   > Zen is a privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience!
 
-  <img width="800px" src="https://techwiseinsider.com/wp-content/uploads/2024/10/Zen-Browser-Firefox-based-Browser.png">
+  <img width="800px" src="https://zen-browser.app/media/glance/poster.webp">
 
 - ### [Floorp](https://floorp.app/)
   > Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility.
@@ -108,7 +108,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### Premier Pro > [KdenLive](https://kdenlive.org/)/[Shotcut](https://shotcut.org/)
   > Kdenlive is a free and open-source video editing software based on the MLT Framework, KDE and Qt.
 
-  <img width="800px" src="https://kdenlive.org/wp-content/uploads/2022/01/271174170_1089343691850009_6872343577648842521_n.png">
+  <img width="800px" src="https://kdenlive.org/k1_2979239690662228430.png">
 
   > Shotcut is a free and open-source, cross-platform video, audio, and image editing program for Linux, macOS and Windows.
 
@@ -133,7 +133,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### Google Photos > [Immich](https://immich.app/)
   > High performance self-hosted photo and video management solution.
 
-  <img width="800px" src="https://immich.app/img/screenshot-light.webp">
+  <img width="800px" src="https://immich.app/img/social-preview.png">
 
 - ### Google Workspace > [Collabora Online](https://www.collaboraoffice.com/collabora-online/)
   > Collabora Online is an open source online office suite built on LibreOffice Technology
@@ -143,7 +143,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 ## Instead of Teams, Discord, Slack
 - ### [Zulip](https://zulip.com/)
-> Open-source team chat that helps teams stay productive and focused.
+  > Open-source team chat that helps teams stay productive and focused.
 
   <img width="800px" src="https://static.zulipchat.com/static/images/landing-page/hello/generated/screen-2-1x.jpg">
 
@@ -174,7 +174,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### [Bitwarden](https://bitwarden.com/)
   > Bitwarden is a freemium open-source password management service that stores sensitive information, such as website credentials, in an encrypted vault. 
 
-  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bitwarden_Desktop_MacOS.png/640px-Bitwarden_Desktop_MacOS.png">
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Bitwarden_Desktop_2025.7.0_screenshot.webp">
 
 - ### [Proton Pass](https://proton.me/pass)
   > Open-source password manager for effortless protection.
@@ -192,12 +192,12 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### [ProtonVPN](https://protonvpn.com/)
   > Proton VPN is a VPN service launched in 2017 and operated by the company Proton AG, the company behind the email service Proton Mail.
 
-  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Protonvpn-gui_screenshot.png/800px-Protonvpn-gui_screenshot.png">
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Protonvpn-gui_screenshot.png">
 
 - ### [OpenVPN](https://openvpn.net/)
   > OpenVPN is an open-source virtual private network (VPN) system.
 
-  <img width="800px" src="https://openvpn.net/wp-content/uploads/access-server-admin-ui.jpg">
+  <img width="800px" src="https://openvpn.net/as-docs/image/uuid-c3e5d31e-94e1-0ee1-13a0-2aba07686242.png">
 
 - ### [Wireguard](https://www.wireguard.com/)
   > WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks (VPNs).
