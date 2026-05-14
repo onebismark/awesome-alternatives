@@ -18,6 +18,10 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - [Instead of CCleaner](#instead-of-ccleaner) <br/>
 - [Instead of VSCode](#instead-of-vscode) <br/>
 - [Instead of Figma](#instead-of-figma) <br/>
+- [Instead of Spotify](#instead-of-spotify) <br/>
+- [Instead of Twitter / X](#instead-of-twitter--x) <br/>
+- [Instead of GitHub](#instead-of-github) <br/>
+- [Instead of Zoom](#instead-of-zoom) <br/>
 
 ## Instead of Windows, MacOS
 - ### Linux
@@ -280,3 +284,69 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f">
 
+## Instead of Spotify
+- ### [Spotube](https://spotube.krtirtho.dev/)
+  > Spotube is a free and open-source Spotify client that uses Spotify's data API with audio from YouTube or Piped, without ads, tracking, or a Premium subscription requirement.
+
+  <img width="800px" src="https://repository-images.githubusercontent.com/338719962/f61378ef-aa0f-43d2-b585-1cc121cb7cb9">
+
+- ### [Navidrome](https://www.navidrome.org/)
+  > Navidrome is an open-source, self-hosted music collection server and streamer compatible with Subsonic-API clients. Stream your own music library from anywhere.
+
+  <img width="800px" src="https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png">
+
+- ### [Funkwhale](https://funkwhale.audio/)
+  > Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+
+  <img width="800px" src="https://www.funkwhale.audio/theme/images/screenshot.png">
+
+
+## Instead of Twitter / X
+- ### [Mastodon](https://joinmastodon.org/)
+  > Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node and join a federated network of instances built on ActivityPub.
+
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mastodon_homepage_%E2%80%93_28_June_2025.png">
+
+- ### [Misskey / Calckey](https://misskey-hub.net/)
+  > Misskey is a free and open-source decentralized social media platform, part of the Fediverse. It features rich media embeds, reactions, and a highly customizable interface.
+
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Misskey_light.png">
+
+- ### [Pleroma / Akkoma](https://pleroma.social/)
+  > Pleroma is a free and open-source federated social networking server built on the ActivityPub protocol. It is lightweight, self-hostable, and compatible with Mastodon clients.
+
+  <img width="800px" src="https://pleroma.social/images/pleromafe_screenshot_dark.png">
+
+
+## Instead of GitHub
+- ### [Gitea](https://gitea.io/)
+  > Gitea is a painless, self-hosted, open-source Git service. It is lightweight, fast, and cross-platform, offering issue tracking, pull requests, wikis, and package registries.
+
+  <img width="800px" src="https://about.gitea.com/img/home-screenshot.png">
+
+- ### [Forgejo](https://forgejo.org/)
+  > Forgejo is a self-hosted, lightweight software forge and a community-driven fork of Gitea, with a focus on governance, privacy, and federation via ActivityPub.
+
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Forgejo_screenshot_dark_mode.png">
+
+- ### [GitLab CE](https://gitlab.com/gitlab-org/gitlab-foss)
+  > GitLab Community Edition is a free and open-source DevOps platform providing Git repository management, CI/CD pipelines, issue tracking, container registries, and more — all self-hostable.
+
+  <img width="800px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/35a01c2c-9a34-4542-9920-300a021b9ee0.png">
+
+
+## Instead of Zoom
+- ### [Jitsi Meet](https://meet.jit.si/)
+  > Jitsi Meet is a free, open-source video conferencing solution. It requires no account, supports end-to-end encryption, and can be self-hosted on your own infrastructure.
+
+  <img width="800px" src="https://www.appvizer.com/media/application/27129/cover/113762.png">
+
+- ### [BigBlueButton](https://bigbluebutton.org/)
+  > BigBlueButton is a free and open-source web conferencing system designed for online learning. It supports video, audio, screen sharing, whiteboards, breakout rooms, and polls.
+
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/ItWikiCon_2020_-_final_greetings.png">
+
+- ### [Element Call](https://element.io/element-call)
+  > Element Call is a free, open-source, end-to-end encrypted video calling solution built on the Matrix protocol. No account required for guests; fully self-hostable.
+
+  <img width="800px" src="https://i.ytimg.com/vi/M8jU6QzieC0/maxresdefault.jpg">
